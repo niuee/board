@@ -1,3 +1,4 @@
+export * from "./being";
 export * from "./board-camera";
 export * from "./boardify";
 export * from "./camera-observer";
